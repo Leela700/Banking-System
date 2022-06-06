@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+/*nav bar start */
+.navbar-logo {
+    height: 40px;
+    width: 40px;
+}
+
+#navItem {
+    color: black;
+}
+
+.logo-text {
+    font-size: 24px;
+    color: #000;
+    font-family: Sans-Serif;
+}
+
+/*nav bar end */
+
+/*container*/
+.hero-content {
+    margin-top: 110px;
+    height: 100vh;
+}
+
+
+
+.button {
+    width: 110px;
+    margin-left: 140px;
+}
+
+.container-heading {
+    font-size: 36px;
+    font-family: "Roboto";
+}
+
+.container-description {
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.container-text {
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+}
+
+/*section bank start*/
+.section-bank-heading {
+    font-size: 24px;
+    font-family: Sans-Serif;
+}
+
+.hero-content-one {
+    margin-top: 110px;
+}
+
+.section-bank-text {
+    font-family: Sans-Serif;
+}
+
+/*section bank end*/
+/*footer start*/
+.bg-footer-section {
+    background-color: #19232d;
+}
+
+.hr-line {
+    background-color: #5a7184;
+}
+
+.footer-logo {
+    width: 56px;
+    height: 36px;
+}
+
+.footer-icon {
+    color: #5a7184;
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    padding: 15px 30px 30px 15px;
+    background-color: #202b36;
+    margin-right: 8px;
+    margin-bottom: 8px;
+}
+
+.footer-description {
+    font-family: "Roboto";
+    color: #5a7184;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 5px;
+}
+
+.footer-description-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.footer-description-copyright {
+    color: #959ead;
+    font-size: 16px;
+    font-family: "Roboto";
+    font-weight: 400;
+}
+
+.footer-description-text {
+    color: #5a7184;
+    font-size: 16px;
+    font-family: "Roboto";
+
+}
+
+.footer-heading {
+    color: #5a7184;
+    font-size: 18px;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+
+.icon {
+    color: #5a7184;
+    font-size: 18px;
+}
+
+.developer {
+    color: red;
+    font-family: Caveat;
+    font-size: 28px;
+}
+
+.bank-footer-section-text {
+    color: #5a7184;
+    font-size: 16px;
+    font-family: "Roboto";
+    font-weight: 400;
+    margin-bottom: 5px;
+}
+
+.logo-text-footer {
+    color: #fff;
+}
+
+/*footer end*/
